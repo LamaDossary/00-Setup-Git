@@ -3,7 +3,7 @@
 
 # $CHALLENGIFY_BEGIN
 def my_name_is():
- 
     return ("LamaDossary")
-
+def my_age_is():
+ return (20)
 # $CHALLENGIFY_END
